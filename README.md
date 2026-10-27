@@ -1,6 +1,6 @@
 ## Hello, Friend 👋 Welcome to my Github! ✨
 
-My name is Jeremy D. cortez, a molecular biologist innovating at the intersection of bioinformatics, chemical engineering, and structural biology. Python is my go-to language, but I blend together some code with bash (linux), Nextflow, and EPI2ME (nanopore sequencing). With a Ph.D. in Molecular Biology from Princeton University, I offer direct computational and laboratory experience across every stage of new biotechnologies, startups, and synthetic biology ventures (i.e. cybergenetics). Based in NYC and a long volunteer at the American Museum of Natural Science, I am passionate about bringing about positive change to the environment and people from all walks of life curious about science! 🔭🌱
+My name is Jeremy D. Cortez, a molecular biologist innovating at the intersection of bioinformatics, chemical engineering, and structural biology. Python is my go-to language, but I blend together some code with bash (linux), Nextflow, and EPI2ME (nanopore sequencing). With a Ph.D. in Molecular Biology from Princeton University, I offer direct computational and laboratory experience across every stage of new biotechnologies, startups, and synthetic biology ventures (i.e. cybergenetics). Based in NYC and a long volunteer at the American Museum of Natural Science, I am passionate about bringing about positive change to the environment and people from all walks of life curious about science! 🔭🌱
 
 Some websites about me:
 
