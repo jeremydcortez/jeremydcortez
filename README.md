@@ -5,6 +5,9 @@ My name is Jeremy D. cortez, a molecular biologist innovating at the intersectio
 
 <a href="[My Google Scholar](https://scholar.google.com/citations?hl=en&user=NlndhPAAAAAJ" target="_blank">LinkedIn</a>
 
+<a href="https://scholar.google.com/citations?hl=en&user=NlndhPAAAAAJ" target="_blank">My Google Scholar</a>
+
+
 
 
 <!--
